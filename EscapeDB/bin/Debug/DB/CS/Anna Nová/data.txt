@@ -1,0 +1,4 @@
+﻿Jméno=Anna Nová
+Věk=74
+Pohlaví=Žena
+Status=Prodavačka
