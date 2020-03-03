@@ -1,0 +1,20 @@
+﻿
+
+variabilni barvy
+-----------------
+-gForeCol
+-gBackCol
+-gBorderCol
+-closeForeCol
+
+
+centralizovany login
+---------------------
+
+
+
+variabilni logo + background
+-----------------------------
+
+multilanguage
+--------------
