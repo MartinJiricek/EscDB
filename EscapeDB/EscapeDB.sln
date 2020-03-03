@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeDB", "EscapeDB.csproj", "{F4E608DB-9C57-4094-A337-DBCD692895EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E608DB-9C57-4094-A337-DBCD692895EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E608DB-9C57-4094-A337-DBCD692895EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E608DB-9C57-4094-A337-DBCD692895EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E608DB-9C57-4094-A337-DBCD692895EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F95725-4B16-41D0-BEC4-894F2455D76D}
+	EndGlobalSection
+EndGlobal
